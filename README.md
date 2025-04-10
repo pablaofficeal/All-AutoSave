@@ -20,12 +20,14 @@
 
 Установи зависимости (если Python сам не предложит):
 
-bash
+   ```bash
 pip install customtkinter pyautogui plyer
+```
 Запусти:
 
-bash
+   ```bash
 python main.py
+```
 
 Если ты юзаешь .exe версию — просто открой PremiereAutoSavePro.exe.
 
@@ -36,10 +38,11 @@ python main.py
 
 Выбери .py файл с методом execute() внутри:
 
-python
+```python
 # Пример кастомного скрипта
 def execute():
     print("Выполняется кастомная логика")
+```
 Укажи интервал — и жми старт!
 
 📁 Логи
